@@ -1,0 +1,2 @@
+- Strive to declare all variables in Kotlin with the `val` keyword.
+- Stick to the conventional Java source hierarchy directories for classes and packages
